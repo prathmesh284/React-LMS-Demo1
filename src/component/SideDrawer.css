@@ -1,0 +1,22 @@
+.side-drawer{
+    height: 90vh;
+    width: 18vw;
+    background-color: rgba(128, 128, 128, 0.189);
+    overflow-x: hidden;
+}
+.starter{
+    margin-bottom: 5px;
+    height: 7vh;
+    width: 18vw;
+    background-color: rgba(128, 128, 128, 0.247);
+    align-content: center;
+    padding-left: 10px;
+}
+.topic-side-drawer{
+    margin-bottom: 5px;
+    height: 7vh;
+    width: 20vw;
+    align-content: center;
+    padding-left: 10px;
+    overflow-y: hidden;
+}
